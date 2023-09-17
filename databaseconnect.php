@@ -29,3 +29,10 @@ class Databaseconnect
         return $this->conn;
     }
 }
+//INSERT INTO ****_tb
+//(userFullname,userName,userPassword,userStatus)
+//VALUES (ต้องลงให้ครบเท่าตัวแปร อย่างอันนี้ใช้ 4 ตัว)
+//('Fullname','Name','Password','Status'),
+//('Fullname','Name','Password','Status'),
+//('Fullname','Name','Password','Status'),
+//('Fullname','Name','Password','Status')
